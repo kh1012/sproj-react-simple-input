@@ -26,7 +26,7 @@ function queryStringToURL() {
   }
 }
 
-// MAPI-Key가 올바른지 확인하는 함수 입니다.
+// MAPI-Key가 올바른지 확인하는 함수
 async function checkMapiKey() {
   // mapikey를 QueryString으로부터 가져 옵니다.
   const mapikey = getMapiKey();
