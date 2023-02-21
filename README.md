@@ -1,7 +1,7 @@
 # :zap: Getting Stated With React Simple Input
 
 MIDAS API 중 "GET NODE"를 통해 API를 경험할 수 있는 저장소 입니다.\
-HTML 대신 [React 라이브러리](https://ko.reactjs.org/) 를 사용하여 가독성있는 웹 페이지를 제작할 수 있습니다.
+HTML 대신 [React 라이브러리](https://ko.reactjs.org/) 를 사용하여 가독성있는 웹 페이지를 제작할 수 있습니다.\
 전체적인 구조는 HTML과 비슷하지만, 고정 된 `index.html`에 `index.js`로 활력을 불어 넣어 보세요!
 <br /><br />
 
