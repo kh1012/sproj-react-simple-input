@@ -6,6 +6,10 @@ MIDAS API를 활용한 React Plugin 기본 프로젝트 입니다.
 
 프로젝트를 실행하기 위해서는, 기본적인 환경을 구성해야 합니다.
 
+### 기본 제작 환경 구성
+
+react를 사용하기 위한 기본적인 환경 구성은 [Getting Started React](https://github.com/kh1012/sproj-prerequisite/tree/main/react) 참고하셔서 Setting 하시면 됩니다.
+
 ### 프로젝트 다운로드
 
 현 페이지의 `Code`버튼을 클릭하여 Download ZIP 파일을 다운로드 하세요.\
