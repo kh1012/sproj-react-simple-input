@@ -81,6 +81,7 @@ HTML 대신 [React 라이브러리](https://ko.reactjs.org/) 를 사용하여 �
   ![img](./img/stopreact.png)\
   <br />
   위와 같이 작업 종료 메세지가 나오고 커서가 깜빡이는 상태가 된다면 정상적으로 중단된 것 입니다.
+<br /><br />
 
 ### 빌드하기
 <br />
@@ -94,6 +95,7 @@ HTML 대신 [React 라이브러리](https://ko.reactjs.org/) 를 사용하여 �
   ![img](./img/npmbuildvscode.png)\
   <br />
   위와 같은 결과파일들을 MIDAS API Plugin 사이트에 업로드 하면 됩니다.
+<br /><br />
 
 ### 주요 코드 설명
 <br />
