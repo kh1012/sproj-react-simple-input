@@ -154,3 +154,8 @@ footer {
 #current-querystring {
   color: #DC2626
 }
+
+#querystring-wrapper {
+  display: flex;
+  flex-direction: column;
+}
