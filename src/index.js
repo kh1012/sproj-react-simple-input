@@ -1,6 +1,7 @@
 import React, { useEffect }  from 'react';
 import ReactDOM from 'react-dom/client';
 import "./index.css";
+import createFooterCopyright from 'https://cdn.jsdelivr.net/gh/kh1012/sproj-std@main/footer/copyright-react-temp.js';
 
 // API를 사용하기 위한 기본적인 변수 및 함수
 const baseUrl = 'https://api-beta.rpm.kr-dv-midasit.com:443';
@@ -71,6 +72,7 @@ async function getNodeFetch() {
 function App() {
   //아래 header, main, footer가 최초로 생성될 때 동작하는 함수입니다.
   useEffect(() => { checkExistQuerystring(); }, []);
+  useEffect(() => { createFooterCopyright(); }, []);
 
   return (
   <>
@@ -108,8 +110,8 @@ function App() {
       </section>
     </main>
 
-    <footer>
-      <h3 class="footer-h3">-</h3>
+    <footer id="footer-copyright">
+      test
     </footer>
   </>
   );
