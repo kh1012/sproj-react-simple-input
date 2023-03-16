@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sproj-react-simple-input/static/css/main.1f24d037.css",
-    "main.js": "/sproj-react-simple-input/static/js/main.31637b99.js",
+    "main.css": "/sproj-react-simple-input/static/css/main.1eab5d47.css",
+    "main.js": "/sproj-react-simple-input/static/js/main.11fb6ffd.js",
     "index.html": "/sproj-react-simple-input/index.html",
-    "main.1f24d037.css.map": "/sproj-react-simple-input/static/css/main.1f24d037.css.map",
-    "main.31637b99.js.map": "/sproj-react-simple-input/static/js/main.31637b99.js.map"
+    "main.1eab5d47.css.map": "/sproj-react-simple-input/static/css/main.1eab5d47.css.map",
+    "main.11fb6ffd.js.map": "/sproj-react-simple-input/static/js/main.11fb6ffd.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f24d037.css",
-    "static/js/main.31637b99.js"
+    "static/css/main.1eab5d47.css",
+    "static/js/main.11fb6ffd.js"
   ]
 }
