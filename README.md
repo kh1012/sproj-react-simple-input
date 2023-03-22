@@ -35,7 +35,7 @@ Introduce the preparation process to use this repository.
 ### Install the package for using
 <br />
 
-- In the cases of `react,` when executing `index.html` right after downloading, there's nothing on the web page generally.\
+- In the cases of `react`, when executing `index.html` right after downloading, there's nothing on the web page generally.\
   During loading the web page, HTML becomes dynamic behavior through javascript.\
   (For the specifications, please refer here [react-Rendering Elements](https://ko.reactjs.org/docs/rendering-elements.html).)\
   For several reasons, the user needs to install the required package for execution.\
@@ -46,7 +46,7 @@ Introduce the preparation process to use this repository.
   Please check the variety of information here: [npm-docs](https://docs.npmjs.com/).\
   <br />
 - Run the `VSCode`.\
-  Open the unzip downloaded folder `File - Folder open...` or with `Ctrl + K, O`.\
+  Open the unzip downloaded folder `File - Open Folder...` or `Ctrl + K, O`\
   <br />
   <img src="./img/openvscode.png" width="800px">\
   <br />
@@ -60,7 +60,7 @@ Introduce the preparation process to use this repository.
   <br />
   Input `npm i` or `npm install`in the activated terminal and run.\
   (If you installed `NodeJS` in the past, you could execute npm(node package manager).)\
-  The package is installed automatically and pops up "finish."\
+  The package is installed automatically and pops up "finish".\
   <br />
   ![img](./img/npmivscode.png)
 <br /><br />
@@ -80,7 +80,7 @@ Introduce the preparation process to use this repository.
 <br />
 
 - `Ctrl + C`\
-  To complete executed react server, click the activated terminal and press `Ctrl + C.`\
+  To complete executed react server, click the activated terminal and press `Ctrl + C`.\
   <br />
   ![img](./img/stopreact.png)\
   <br />
